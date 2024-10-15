@@ -1,4 +1,4 @@
-# Diabetes Prediction using BRFSS data and Explainable AI
+# Diabetes Prediction using BRFSS data
 
 Diabetes is a chronic condition that affects millions of people worldwide, and understanding its prevalence, risk factors, and impact is crucial for public health initiatives. The Behavioral Risk Factor Surveillance System (BRFSS), conducted by the Centers for Disease Control and Prevention (CDC), provides a valuable dataset for analyzing health-related behaviors and conditions, including diabetes.
 
